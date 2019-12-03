@@ -61,6 +61,7 @@
 				coursePOM.subscribebutton();
 				screenShot.captureScreenShot("AfterCatalog");
 				screenShot.captureScreenShot("gettitleCourseList");
+				
 			
 		}
 		
